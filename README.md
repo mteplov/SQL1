@@ -58,7 +58,7 @@
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
 
 Скриншот:  
-![3 задание](https://github.com/mteplov/redis/blob/main/img/ttl.png)
+![3 задание](https://github.com/mteplov/redis/blob/main/img/TTL.png)
 
 ---
 
